@@ -1,0 +1,7 @@
+﻿  reversed.c
+C:\Users\legend_444\source\repos\binary_bomb_reversed_code\reversed.c(9,9): warning C4013: 'phase_1' undefined; assuming extern returning int
+C:\Users\legend_444\source\repos\binary_bomb_reversed_code\reversed.c(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\legend_444\source\repos\binary_bomb_reversed_code\reversed.c(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\legend_444\source\repos\binary_bomb_reversed_code\reversed.c(21,6): error C2371: 'phase_1': redefinition; different basic types
+C:\Users\legend_444\source\repos\binary_bomb_reversed_code\reversed.c(23,13): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\legend_444\source\repos\binary_bomb_reversed_code\reversed.c(26,25): warning C4013: 'strings_not_equal' undefined; assuming extern returning int

@@ -62,7 +62,7 @@ void phase_defused() {
 
 }
 void bomb_exploded() {
-
+exit(1);
 }
 bool strings_not_equal(char* first, char* second) {
 	while (*first != '\0') {
@@ -232,4 +232,5 @@ void phase_6(char *input) {
 //			printf("\n");
 //		}
 //	}
+
 //}
